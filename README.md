@@ -61,7 +61,7 @@ This repo gives you:
 Running the pipeline displays periodic logs and opens the camera stream.  
 Sample screenshot below confirms hardware decoding and real-time streaming:
 
-![Sample output: Jetson Nano hardware-accelerated RTSP stream]("C:\Users\tanis\Downloads\img.jpg")
+![Sample output: Jetson Nano hardware-accelerated RTSP stream]("https://drive.google.com/file/d/1IadntjC9QQ52tQba8-c5ZGKbNP-3Hu3J/view?usp=sharing")
 
 *Output of the Jetson Nano GStreamer pipeline decoding an RTSP stream in hardware (see timestamp on monitor in the video feed).*
 
